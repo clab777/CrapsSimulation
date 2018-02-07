@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 //My first edit......
 
 /**
@@ -50,7 +48,6 @@ public class TestCraps
 	 * <code>numPlays</code> total plays.
 	 */
 	private int[] winForNumberOfStepsOf = new int[100];
-	private ArrayList<Integer> test;
 
 	/**
 	 * int array field <code>lossSteps</code> racks number of losses l after
